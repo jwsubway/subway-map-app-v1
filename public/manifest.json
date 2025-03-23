@@ -1,0 +1,15 @@
+{
+  "short_name": "지하철",
+  "name": "나만의 지하철 지도 앱",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}

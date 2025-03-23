@@ -1,0 +1,202 @@
+[
+  {
+    "id": "E2",
+    "ko_name": "개신문화관",
+    "en_name": "Gaesin Cultural Center",
+    "express": true,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 19.0,
+    "colors": "초"
+  },
+  {
+    "id": "E1",
+    "ko_name": "사범대학",
+    "en_name": "College of Education",
+    "express": true,
+    "direction": "양쪽",
+    "row": 2.0,
+    "col": 18.0,
+    "colors": "초"
+  },
+  {
+    "id": "N21",
+    "ko_name": "은하수식당",
+    "en_name": "Eunhasu Cafeteria",
+    "express": true,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 17.0,
+    "colors": "초"
+  },
+  {
+    "id": "N20-1",
+    "ko_name": "생활과학대학",
+    "en_name": "College of Human Ecology",
+    "express": true,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 16.0,
+    "colors": "초"
+  },
+  {
+    "id": "N19",
+    "ko_name": "제2본관",
+    "en_name": "the 2nd Main Hall",
+    "express": false,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 15.0,
+    "colors": "초"
+  },
+  {
+    "id": "N18",
+    "ko_name": "법학관",
+    "en_name": "College of Law Hall",
+    "express": true,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 14.0,
+    "colors": "초"
+  },
+  {
+    "id": "N16-3",
+    "ko_name": "미술과",
+    "en_name": "Department of Arts",
+    "express": false,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 13.0,
+    "colors": "초"
+  },
+  {
+    "id": "N16-1",
+    "ko_name": "인문대학본관",
+    "en_name": "College of Humanities",
+    "express": true,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 12.0,
+    "colors": "초"
+  },
+  {
+    "id": "N15",
+    "ko_name": "사회과학대학본관",
+    "en_name": "College of Social Sciences",
+    "express": true,
+    "direction": "한쪽",
+    "row": 3.0,
+    "col": 11.0,
+    "colors": "노,초"
+  },
+  {
+    "id": "N13",
+    "ko_name": "경영학관",
+    "en_name": "College of Business",
+    "express": true,
+    "direction": "한쪽",
+    "row": 3.0,
+    "col": 10.0,
+    "colors": "노,초"
+  },
+  {
+    "id": "N16-2",
+    "ko_name": "미술관",
+    "en_name": "Department of Arts Hall",
+    "express": false,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 9.0,
+    "colors": "초"
+  },
+  {
+    "id": "N17",
+    "ko_name": "개성재(학생생활관 본관)",
+    "en_name": "Gaeseongjae(CBNU main dorm)",
+    "express": true,
+    "direction": "양쪽",
+    "row": 2.0,
+    "col": 8.0,
+    "colors": "빨,초"
+  },
+  {
+    "id": "N1-4",
+    "ko_name": "충북대 중문",
+    "en_name": "CBNU Middle Gate",
+    "express": true,
+    "direction": "양쪽",
+    "row": NaN,
+    "col": NaN,
+    "colors": ""
+  },
+  {
+    "id": "N9",
+    "ko_name": "언어교육관(국제교류본부3호관)",
+    "en_name": "CBNU Office of International Service the 3rd Hall",
+    "express": true,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 6.0,
+    "colors": "초"
+  },
+  {
+    "id": "N8",
+    "ko_name": "BIO-PRIDE 고교학점제지원센터",
+    "en_name": "BIO-PRIDE HIGH SCHOOL CREDIT MANAGEMENT CENTER",
+    "express": false,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 5.0,
+    "colors": "초"
+  },
+  {
+    "id": "N7",
+    "ko_name": "형설관",
+    "en_name": "Hyeongseolgwan",
+    "express": false,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 4.0,
+    "colors": "초"
+  },
+  {
+    "id": "N5",
+    "ko_name": "평생교육원(국제교류본부2호관)",
+    "en_name": "CBNU Office of International Affairs 2nd Hall",
+    "express": true,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 3.0,
+    "colors": "초"
+  },
+  {
+    "id": "N4",
+    "ko_name": "산학협력관",
+    "en_name": "Industry-University Cooperation Foundation",
+    "express": true,
+    "direction": "한쪽",
+    "row": 2.0,
+    "col": 2.0,
+    "colors": "초"
+  },
+  {
+    "id": "N2",
+    "ko_name": "법학전문대학원",
+    "en_name": "CBNU Law School",
+    "express": true,
+    "direction": "한쪽",
+    "row": 3.0,
+    "col": 2.0,
+    "colors": "노,초"
+  },
+  {
+    "id": "N1-1",
+    "ko_name": "충북대 정문",
+    "en_name": "CBNU Main Gate",
+    "express": true,
+    "direction": "양쪽",
+    "row": NaN,
+    "col": NaN,
+    "colors": ""
+  }
+]
